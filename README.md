@@ -16,7 +16,7 @@ This project is a high-level financial audit of the 2025 operating year for **Bi
 ## 🖼️ Project Evidence
 
 ### 1. SQL Audit Output
-The SQL Table.png
+![SQL Table](The%20SQL%20Table.png)
 
 ### 2. Revenue Visualization
-The Orange Bar Chart.png
+![Orange Bar Chart](The%20Orange%20Bar%20Chart.png)
